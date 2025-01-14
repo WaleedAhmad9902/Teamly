@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "MEETING ROOM",
+      "description": "Meeting room for quick chats for up to 3 people",
+      "price": "1,000 PKR/HOUR",
+      "image": "https://ctfassets.imgix.net/vh7r69kgcki3/4flxQHFNHBOi0KPqbsCIDT/d0de38ef626b8af15757bf5a1cea9816/Web_150DPI-WeWork_17_St_Helens_Place_London_9_sq.jpg"
+    },
+    {
+      "id": 2,
+      "name": "CONFERENCE ROOM",
+      "description": "Fully equipped for more serious conversations for 6 people",
+      "price": "2,500 PKR/HOUR",
+      "image": "https://kickstart.pk/wp-content/uploads/2024/01/Untitled-design-19.webp"
+    },
+    {
+      "id": 3,
+      "name": "Board Room",
+      "description": "Our state of art room to impress your clients for up to 9 people",
+      "price": "4,000 PKR/HOUR",
+      "image": "https://cdn.shopify.com/s/files/1/0605/0136/0804/files/Modern_meeting_room_with_advanced_technology.jpg?v=1703751846"
+    }
+  ]
+  

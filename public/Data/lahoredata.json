@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Daftarkhwan Boulevard",
+      "description": "A vibrant workspace located at Boulevard. A great place for entrepreneurs and startups to work in a collaborative environment.",
+      "price": "2500 RS/HR",
+      "image": "https://static.wixstatic.com/media/943304_4c20c35a457b4cf69bbdf448b2f2694f~mv2.jpg/v1/crop/x_84,y_0,w_913,h_1080/fill/w_240,h_284,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Daftarkhwan%20Boulevard.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Vogue 39",
+      "description": "A modern workspace located at Vogue 39, featuring state-of-the-art facilities and ergonomic design.",
+      "price": "4000 RS/HR",
+      "image": "https://static.wixstatic.com/media/943304_f1b489f2bee244e99e66a073f4661364~mv2.jpg/v1/crop/x_304,y_0,w_1700,h_2000/fill/w_240,h_284,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Vogue-39%20op.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Downtown 71",
+      "description": "An elegant workspace in Downtown 71, offering a professional setting for meetings and collaborative work.",
+      "price": "3000 RS/HR",
+      "image": "https://static.wixstatic.com/media/943304_610a15c37dc7473aba54f02b64f9b87f~mv2.jpg/v1/crop/x_310,y_0,w_813,h_956/fill/w_240,h_284,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Downtown-71%20op.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Downtown 71",
+        "description": "An elegant workspace in Downtown 71, offering a professional setting for meetings and collaborative work.",
+        "price": "3000 RS/HR",
+        "image": "https://static.wixstatic.com/media/943304_610a15c37dc7473aba54f02b64f9b87f~mv2.jpg/v1/crop/x_310,y_0,w_813,h_956/fill/w_240,h_284,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Downtown-71%20op.jpg"
+      }
+  ]
+  

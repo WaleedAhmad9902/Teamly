@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Private OfficE",
+      "description": "Your own private, fully serviced office for your team to focus and collaborate in for the day.",
+      "price": "FROM 20,000 PKR/desk/Month",
+      "image": "https://www.vari.com/dw/image/v2/BDFT_PRD/on/demandware.static/-/Library-Sites-VariGlobalContentLibrary/default/dw038c10ab/b2b-campaign/mobile/2024-b2b-lp_module-44_mobile-final.jpg"
+    },
+    {
+      "id": 2,
+      "name": "PRIVATE DESK",
+      "description": "A modern workspace located at Vogue 39, featuring state-of-the-art facilities and ergonomic design.",
+      "price": "4000 RS/HR",
+      "image": "https://officeplus.ae/wp-content/uploads/2020/10/Office-Furniture-in-Mussafah-Abu-Dhabi.jpg"
+    },
+    {
+      "id": 3,
+      "name": "PRIVATE TABLE",
+      "description": "An elegant workspace in Downtown 71, offering a professional setting for meetings and collaborative work.",
+      "price": "3000 RS/HR",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiptSx_7pKDS9wYD50CLD46VdAlNmX4jbmFA&s"
+    }
+  ]
+  
